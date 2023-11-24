@@ -1,0 +1,22 @@
+.parentContaner{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
+.tableWrapper{
+    width: 80%;
+    border: solid 5px red;
+}
+
+.tableRow{
+    border: solid 5px black;
+    width: 100px;
+    background: green;
+}
+
+.tableData{
+    padding: 5px;
+    border:solid 2px black;
+}
